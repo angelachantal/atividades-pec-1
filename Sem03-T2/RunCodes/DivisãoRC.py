@@ -1,0 +1,6 @@
+dividendo=float(input().strip())
+divisor=float(input().strip())
+quociente=float(dividendo//divisor)
+resto=float(dividendo%divisor)
+print(f'{quociente:.4f}')
+print(f'{resto:.4f}')

@@ -1,0 +1,6 @@
+N1=float(input().strip())
+N2=float(input().strip())
+Soma=str(N1+N2)
+Multiplicação=str(N1*N2)
+print(Soma)
+print(Multiplicação)

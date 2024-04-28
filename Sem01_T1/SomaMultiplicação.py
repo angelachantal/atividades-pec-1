@@ -1,0 +1,6 @@
+N1=float(input("Digite o primeiro número!").strip())
+N2=float(input("Digite o segundo número!").strip())
+Soma=str(N1+N2)
+Multiplicação=str(N1*N2)
+print("A soma entre eles é igual a: "+ Soma)
+print("O produto dos dois é igual a: " + Multiplicação)
